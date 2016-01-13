@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit2.0Tutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Name">Name :</string>
+    <string name="City">City :</string>
+    <string name="Refresh">Refresh</string>
+    <string name="dummy">lorem ipsum</string>
+    <string name="NoConnection">No Internet Connection</string>
+</resources>
